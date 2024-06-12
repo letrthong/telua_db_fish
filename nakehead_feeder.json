@@ -4,7 +4,7 @@
   "numberOfFish": 1000,
  "feeder" :[  
   {
-     "Date" : 1,
+     "date" : 1,
      "unit": "gram",
      "size" :"2mm",
      "pwmSpeed" : "70%",
