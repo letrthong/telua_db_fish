@@ -1,10 +1,12 @@
 {
   "startDate": "15/06/2024",
+  "commnet": "Cá đã nuôi được 45 ngày có thể ăn cám 2mm" ,
+  "height": 1.2,
+  "cylinder": 1.5,
+  "unit": "m",
   "fishType": "nakehead",
   "numberOfFish": 2000,
-  "volume": 9,
   "phase": 3,
-  "commnet": "...." ,
  "waterLevel" :[  
   {
      "date" : 1,
