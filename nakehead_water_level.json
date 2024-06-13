@@ -3,6 +3,8 @@
   "fishType": "nakehead",
   "numberOfFish": 2000,
   "volume": 9,
+  "phase": 3,
+  "commnet": "...." ,
  "waterLevel" :[  
   {
      "date" : 1,
