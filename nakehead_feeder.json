@@ -3,6 +3,7 @@
   "fishType": "nakehead",
   "numberOfFish": 2000,
   "volume": 9,
+  "unit": "m",
   "phase": 3,
   "commnet": "Cá đã nuôi được 45 ngày có thể ăn cám 2mm" ,
  "feeder" :[  
