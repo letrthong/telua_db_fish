@@ -2,7 +2,9 @@
   "startDate": "15/06/2024",
   "fishType": "nakehead",
   "numberOfFish": 2000,
-   "volume": 9,
+  "volume": 9,
+  "phase": 3,
+  "commnet": "...." ,
  "feeder" :[  
   {
      "date" : 1,
