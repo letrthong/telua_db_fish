@@ -1,25 +1,25 @@
 {
-   "startDate": "15/06/2024",
-  "commnet": "Cá đã nuôi được 45 ngày có thể ăn cám 2mm" ,
-  "height": 1.2,
-  "cylinder": 1.5,
-  "unit": "m",
-  "fishType": "nakehead",
-  "numberOfFish": 2000,
-  "phase": 3,
- "feeder" :[  
-  {
-     "date" : 1,
-     "unit": "gram",
-     "size" :"2mm",
-     "pwmSpeed" : "70%",
-      "timers" :[
-        {
-          "startTimer" : "06:30:00",
-          "endTimer" : "06:30:30"
-        }
-      ]
-     
-  }
- ]
+   "startDate": "02/06/2024",
+   "commnet": "Cá đã nuôi được 45 ngày có thể ăn cám 2mm" ,
+   "height": 1.2,
+   "cylinder": 1.5,
+   "unit": "m",
+   "fishType": "nakehead",
+   "numberOfFish": 2000,
+   "phase": 3,
+   "feeder" :[  
+      {
+        "day" : 1,
+        "unit": "gram",
+        "size" :"2mm",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30"
+           }
+         ]
+        
+      }
+   ]
 }
