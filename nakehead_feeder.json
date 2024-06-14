@@ -20,6 +20,19 @@
            }
          ]
         
+      },
+      {
+        "day" : 1,
+        "unit": "gram",
+        "size" :"2mm",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30"
+           }
+         ]
+        
       }
    ]
 }
