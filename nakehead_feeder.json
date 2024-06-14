@@ -22,7 +22,7 @@
         
       },
       {
-        "day" : 1,
+        "day" : 2,
         "unit": "gram",
         "size" :"2mm",
         "pwmSpeed" : "70%",
