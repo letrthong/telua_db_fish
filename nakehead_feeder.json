@@ -16,7 +16,8 @@
          "timers" :[
            {
              "startTimer" : "06:30:00",
-             "endTimer" : "06:30:30"
+             "endTimer" : "06:30:30",
+              "enable": true
            }
          ]
         
@@ -29,7 +30,8 @@
          "timers" :[
            {
              "startTimer" : "06:30:00",
-             "endTimer" : "06:30:30"
+             "endTimer" : "06:30:30",
+              "enable": true
            }
          ]
         
