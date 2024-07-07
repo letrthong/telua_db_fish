@@ -2,6 +2,7 @@ import json
 import logging
 import time
 import datetime
+import uuid
 from datetime import timezone
  
 def getCurrentPWM(startDay, currnetNumberOfFish):
@@ -25,7 +26,8 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     # "startDate": "02/06/2024",
     print(startDay)
 
-    
+    scheduler_array = []
+
     if data_object != None:
         config_list = data_object["Configs"]
         numberOfFish =  data_object["numberOfFish"]
@@ -46,6 +48,23 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
             
                     end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
                     print("end_time=" +  end_time)
+                    scheduler_item =  = {
+                        "id": "2024-"+ str(uuid.uuid1(),
+                        "month": "0",
+                        "action": "70",
+                        "enable": true,
+                        "repeat": "daily",
+                        "stopTimer": endTimer  ,
+                        "startTimer": startTimer,
+                        "levelSwitch": ""
+                   }
+                    scheduler_array.append(sensor_item)
+                    
+    scheduler_string = json.dumps(trigger_list)
+    print("scheduler_string=" + startTimer)
+    return scheduler_string
+
+    
  
 def convert_hour_mm_ss_2_second(time_str):
     if len(time_str) == 5:
