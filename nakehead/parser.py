@@ -21,6 +21,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                 print(timer["enable"])
 
 
-
-getCurrentPWM(2000)
+startDate="02/06/2024"
+currnetNumberOfFish = 2000
+getCurrentPWM(startDate, currnetNumberOfFish)
  
