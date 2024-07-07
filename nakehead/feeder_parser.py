@@ -94,12 +94,13 @@ def get_hour_by_number_of_fish(currnetNumberOfFish, numberOfFish, start_hh_mm_ss
  
 startDate="01/06/2024"
 currnetNumberOfFish = 2000
-getCurrentPWM(startDate, currnetNumberOfFish)
+config_file_path= "nakehead_phase3.json"
+
+getCurrentPWM(startDate, currnetNumberOfFish, config_file_path)
 
 
 startDate="01/06/2024"
 currnetNumberOfFish = 1000
-config_file_path= "nakehead_phase3.json"
 getCurrentPWM(startDate, currnetNumberOfFish, config_file_path)
 
 # startDate="07/07/2024"
