@@ -2,7 +2,7 @@ import json
 import logging
 
  
-def getCurrentPWM():
+def getCurrentPWM(currnetNumberOfFish):
     file = open("nakehead_feeder.json")
     data_object = json.load(file)
     file.close()
@@ -21,5 +21,5 @@ def getCurrentPWM():
 
 
 
-getCurrentPWM()
+getCurrentPWM(2000)
  
