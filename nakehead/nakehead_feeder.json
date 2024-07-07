@@ -880,7 +880,7 @@
       "timers": [
         {
           "startTimer": "06:30:00",
-          "endTimer": "06:30:30",
+          "endTimer": "06:30:59",
           "enable": true
         },
         {
@@ -890,7 +890,7 @@
         },
         {
           "startTimer": "17:00:00",
-          "endTimer": "17:00:30",
+          "endTimer": "17:00:59",
           "enable": true
         }
       ]
