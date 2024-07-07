@@ -37,6 +37,860 @@
            }
          ]
         
+      },
+      {
+        "day" : 3,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 4,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 5,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 6,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 7,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 8,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 9,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 10,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 11,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 12,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 13,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 14,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 15,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 16,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 17,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 18,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 19,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 20,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 21,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 22,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 23,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 24,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 25,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 26,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 27,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 28,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 29,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 30,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 31,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 32,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 33,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 34,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 35,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 36,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 37,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 38,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 39,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 39,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 40,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 41,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 42,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 43,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 44,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 45,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 46,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 47,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 48,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 49,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 50,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 51,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 52,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 53,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 54,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 55,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 56,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 57,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 58,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 59,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 60,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 61,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
+      },
+      {
+        "day" : 62,
+        "unit": "gram",
+        "size" :"2mm",
+        "proteinPercent":"40%",
+        "pwmSpeed" : "70%",
+         "timers" :[
+           {
+             "startTimer" : "06:30:00",
+             "endTimer" : "06:30:30",
+              "enable": true
+           }
+         ]
       }
    ]
 }
