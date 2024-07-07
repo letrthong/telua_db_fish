@@ -13,5 +13,9 @@ if data_object != None:
     for feeder in feederList :
         print(feeder["day"])
         print(feeder["pwmSpeed"])
+        timerList = feeder["timers"]
+        for timer in timerList: 
+            print(timer["startTimer"])
+            print(timer["endTimer"])
 
  
