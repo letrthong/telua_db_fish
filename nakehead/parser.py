@@ -17,7 +17,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
             print(feeder["pwmSpeed"])
             timerList = feeder["timers"]
             for timer in timerList: 
-                print(timer["startTimer"])
+                print("\n" + timer["startTimer"])
                 print(timer["endTimer"])
                 print(timer["enable"])
 
