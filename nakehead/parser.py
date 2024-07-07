@@ -66,7 +66,9 @@ def get_hour_by_number_of_fish(currnetNumberOfFish, start_hh_mm_ss, end_hh_mm_ss
 
     total_seconds = int(total_seconds*feedertimer)
     print("get_hour_by_number_of_fish  total_seconds=" + str( total_seconds))
-    return total_seconds
+    end_time = time.strftime('%H:%M:%S', time.gmtime(start_hh_mm_ss +total_seconds ))
+     print("get_hour_by_number_of_fish  end_time=" + end_time)
+    return end_time
 
  
 startDate="01/06/2024"
