@@ -29,7 +29,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
         feederList = data_object["feeder"]
         for feeder in feederList :
             day =  feeder["day"]
-            if day == next_day
+            if day == next_day:
                 print("")
                 print("Day=" + str( day))
                 print(feeder["pwmSpeed"])
