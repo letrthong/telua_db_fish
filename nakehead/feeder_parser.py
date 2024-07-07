@@ -4,9 +4,10 @@ import time
 import datetime
 import uuid
 from datetime import timezone
- 
-def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
-    epoch_time = int(time.time())
+import logging 
+
+def getCurrentPWM(startDay, offset_time , currnetNumberOfFish, config_file_path):
+    epoch_time = int(time.time()) + offset_time
     print("epoch_time=" + str(epoch_time )  )
     
     # "startDate": "02/06/2024" -dd-mm-yyyy,
