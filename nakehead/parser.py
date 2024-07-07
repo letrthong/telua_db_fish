@@ -1,9 +1,12 @@
 import json
 import logging
 
-str_json = ""
-f_handler = open("nakehead_feeder.json","a")
-str_json = f_handler.read() 
-file1.close()
+ 
+file = open("nakehead_feeder.json","a")
+data_object = json.load(file)
+file.close()
 
-print(f_handler)
+if data_object != None:
+    print(data_object["startDate"])
+
+ 
