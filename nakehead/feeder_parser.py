@@ -103,8 +103,9 @@ startDate="01/06/2024"
 currnetNumberOfFish = 2000
 config_file_path= "nakehead_phase3.json"
 offset_time = 7*60*60
-
-getCurrentPWM(startDate, offset_time, currnetNumberOfFish, config_file_path)
+scheduler_array = getCurrentPWM(startDate, offset_time, currnetNumberOfFish, config_file_path)
+scheduler_string = json.dumps(scheduler_array)
+print("scheduler_string=" + scheduler_string)
 
 
 # startDate="01/06/2024"
