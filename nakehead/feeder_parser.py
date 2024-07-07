@@ -61,10 +61,14 @@ def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
                             "levelSwitch": ""
                         }
                         scheduler_array.append(scheduler_item)
-                    
-    scheduler_string = json.dumps(scheduler_array)
-    print("scheduler_string=" + scheduler_string)
-    return scheduler_string
+
+      if len(scheduler_array) > 0:
+        return scheduler_string
+    return None
+
+    # scheduler_string = json.dumps(scheduler_array)
+    # print("scheduler_string=" + scheduler_string)
+    # return scheduler_string
 
     
  
