@@ -8,8 +8,8 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     epoch_time = int(time.time())
     print("epoch_time=" + str(epoch_time )  )
     
-    # "startDate": "02/06/2024",
-    datetime_object = datetime.datetime.strptime(startDay, "%m/%d/%Y") 
+    # "startDate": "02/06/2024" -dd-mm-yyyy,
+    datetime_object = datetime.datetime.strptime(startDay, "%d/%m/%Y") 
     print(datetime_object) 
     total_seconds = datetime_object.timestamp()
     print("timestamp=" + str( total_seconds ) )
