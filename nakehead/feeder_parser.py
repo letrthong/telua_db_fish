@@ -52,7 +52,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                         "id": "2024-"+ str(uuid.uuid1()),
                         "month": "0",
                         "action": "70",
-                        "enable": true,
+                        "enable": True,
                         "repeat": "daily",
                         "stopTimer": endTimer  ,
                         "startTimer": startTimer,
