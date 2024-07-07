@@ -8,6 +8,9 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     epoch_time = int(time.time())
     print("epoch_time=" + str(epoch_time )  )
 
+    format = '%m/%d/%y'
+    datetime_object = datetime.datetime.strptime(startDay, format) 
+    print(datetime_object) 
 
     file = open("nakehead_feeder.json")
     data_object = json.load(file)
