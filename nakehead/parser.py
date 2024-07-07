@@ -1,8 +1,14 @@
 import json
 import logging
-
+import time
+import datetime
+from datetime import timezone
  
 def getCurrentPWM(startDay, currnetNumberOfFish):
+    epoch_time = int(time.time())
+    print(epoch_time)
+
+
     file = open("nakehead_feeder.json")
     data_object = json.load(file)
     file.close()
