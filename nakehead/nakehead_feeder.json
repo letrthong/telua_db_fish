@@ -5,7 +5,7 @@
    "cylinder": 1.5,
    "unit": "m",
    "fishType": "nakehead",
-   "numberOfFish": 2000,
+   "numberOfFish": 1000,
    "phase": 3,
    "feeder" :[  
       {
