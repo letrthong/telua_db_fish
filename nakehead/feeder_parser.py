@@ -49,15 +49,15 @@ def getCurrentPWM(startDay, offset_time , currnetNumberOfFish, config_file_path)
                         print("\n" + startTimer)
                         print(endTimer)
 
-                        end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
-                        print("end_time=" +  end_time)
+                        new_end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
+                        print("new_end_time=" +  new_end_time)
                         scheduler_item  = {
                             "id": "2024-"+ str(uuid.uuid1()),
                             "month": "0",
                             "action": "70",
                             "enable": True,
                             "repeat": "daily",
-                            "stopTimer": endTimer  ,
+                            "stopTimer": new_end_time  ,
                             "startTimer": startTimer,
                             "levelSwitch": ""
                         }
