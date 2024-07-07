@@ -1277,7 +1277,7 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:59",
-          "enable": true
+          "enable": false
         },
         {
           "startTimer": "11:00:00",
@@ -1310,19 +1310,19 @@
       "pwmSpeed": "70%",
       "feederTimers": [
         {
-          "startTimer": "06:30:00",
-          "endTimer": "06:30:30",
-          "enable": false
+          "startTimer": "06:00:00",
+          "endTimer": "06:00:30",
+          "enable": true
         },
         {
           "startTimer": "11:00:00",
-          "endTimer": "11:00:30",
-          "enable": false
+          "endTimer": "11:00:15",
+          "enable": true
         },
         {
           "startTimer": "17:00:00",
           "endTimer": "17:00:30",
-          "enable": false
+          "enable": true
         }
       ],
       "waterLevel" :[  
