@@ -1277,17 +1277,17 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:59",
-          "enable": true
+          "enable": false
         },
         {
           "startTimer": "11:00:00",
           "endTimer": "11:00:30",
-          "enable": true
+          "enable": false
         },
         {
           "startTimer": "17:00:00",
           "endTimer": "17:00:59",
-          "enable": true
+          "enable": false
         }
       ],
       "waterLevel" :[  
@@ -1312,17 +1312,17 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
-          "enable": true
+          "enable": false
         },
         {
           "startTimer": "11:00:00",
           "endTimer": "11:00:30",
-          "enable": true
+          "enable": false
         },
         {
           "startTimer": "17:00:00",
           "endTimer": "17:00:30",
-          "enable": true
+          "enable": false
         }
       ],
       "waterLevel" :[  
