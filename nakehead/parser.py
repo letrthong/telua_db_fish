@@ -16,7 +16,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
 
     second_next_day = epoch_time  - total_seconds
 
-    next_day = int( second_next_day/3600)
+    next_day = int( second_next_day/(3600*24))
     print("next_day=" + str(next_day))
  
     # file = open("nakehead_feeder.json")
