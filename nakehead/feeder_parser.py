@@ -45,7 +45,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                     endTimer = feederTimer["endTimer"]
                     print("\n" + startTimer)
                     print(endTimer)
-            
+
                     end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
                     print("end_time=" +  end_time)
                     scheduler_item =  = {
@@ -57,7 +57,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                         "stopTimer": endTimer  ,
                         "startTimer": startTimer,
                         "levelSwitch": ""
-                   }
+                    }
                     scheduler_array.append(sensor_item)
                     
     scheduler_string = json.dumps(trigger_list)
