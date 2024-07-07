@@ -42,9 +42,9 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                     print(endTimer)
                     print(timer["enable"])
                    
-                    get_hour_by_number_of_fish( currnetNumberOfFish, startTimer, endTimer)
-
-
+                    end_time = get_hour_by_number_of_fish( currnetNumberOfFish, startTimer, endTimer)
+                    print("end_time=" +  end_time)
+ 
 def convert_hour_mm_ss_2_second(time_str):
     if len(time_str) == 5:
         h, m  = time_str.split(':')
@@ -66,9 +66,8 @@ def get_hour_by_number_of_fish(currnetNumberOfFish, start_hh_mm_ss, end_hh_mm_ss
 
     total_seconds = int(total_seconds*feedertimer)
     print("get_hour_by_number_of_fish  total_seconds=" + str( total_seconds))
-    end_time = time.strftime('%H:%M:%S', time.gmtime(start_hh_mm_ss +total_seconds ))
-     print("get_hour_by_number_of_fish  end_time=" + end_time)
-    return end_time
+    end_time = time.strftime('%H:%M:%S', time.gmtime(start_hh_mm_ss + total_seconds ))
+    return str(end_time)
 
  
 startDate="01/06/2024"
