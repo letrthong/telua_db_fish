@@ -59,8 +59,7 @@ def convert_hour_mm_ss_2_second(time_str):
 
  
 def get_hour_by_number_of_fish(currnetNumberOfFish, numberOfFish, start_hh_mm_ss, end_hh_mm_ss):
-     print("get_hour_by_number_of_fish  numberOfFish=" + str( numberOfFish) + ", currnetNumberOfFish=" + str( currnetNumberOfFish))
-
+    print("get_hour_by_number_of_fish  numberOfFish=" + str( numberOfFish) + ", currnetNumberOfFish=" + str( currnetNumberOfFish))
     feedertimer = 1 
     if currnetNumberOfFish > numberOfFish and currnetNumberOfFish <  (numberOfFish*10) :
         feedertimer =  currnetNumberOfFish/numberOfFish
