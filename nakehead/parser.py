@@ -2,7 +2,7 @@ import json
 import logging
 
  
-file = open("nakehead_feeder.json","a")
+file = open("nakehead_feeder.json")
 data_object = json.load(file)
 file.close()
 
