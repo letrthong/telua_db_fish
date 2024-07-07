@@ -24,8 +24,9 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     file.close()
     # "startDate": "02/06/2024",
     print(startDay)
+
+    
     if data_object != None:
-        
         feederList = data_object["feeder"]
         for feeder in feederList :
             day =  feeder["day"]
@@ -35,11 +36,39 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                 print(feeder["pwmSpeed"])
                 timerList = feeder["timers"]
                 for timer in timerList: 
-                    print("\n" + timer["startTimer"])
-                    print(timer["endTimer"])
+                    startTimer = timer["startTimer"]
+                    endTimer = timer["endTimer"]
+                    print("\n" + startTimer)
+                    print(endTimer)
                     print(timer["enable"])
+                   
+                    get_hour_by_number_of_fish( currnetNumberOfFish, startTimer, endTimer)
 
 
+def convert_hour_mm_ss_2_second(time_str):
+    if len(time_str) == 5:
+        h, m  = time_str.split(':')
+        return int(h) * 3600 + int(m) * 60
+
+    if len(time_str) == 8:
+        h, m,s  = time_str.split(':')
+        return ( int(h) * 3600) + (int(m) * 60) + int(s)
+
+    return 0
+
+ 
+def get_hour_by_number_of_fish(currnetNumberOfFish, start_hh_mm_ss, end_hh_mm_ss):
+    feedertimer = 1 
+    if currnetNumberOfFish > 1000 and currnetNumberOfFish < 10000 :
+        feedertimer =  currnetNumberOfFish/1000
+
+    total_seconds =  convert_hour_mm_ss_2_second(end_hh_mm_ss) - convert_hour_mm_ss_2_second(start_hh_mm_ss)
+
+    total_seconds = int(total_seconds*feedertimer)
+    print("get_hour_by_number_of_fish  total_seconds=" + str( total_seconds))
+    return total_seconds
+
+ 
 startDate="01/06/2024"
 currnetNumberOfFish = 2000
 getCurrentPWM(startDate, currnetNumberOfFish)
