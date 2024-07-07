@@ -62,9 +62,8 @@ def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
                         }
                         count = count+ 1
                         scheduler_array.append(scheduler_item)
-
-      if  count > 0:
-        return scheduler_string
+    if  count > 0:
+        return scheduler_array
     return None
 
     # scheduler_string = json.dumps(scheduler_array)
