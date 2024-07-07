@@ -43,22 +43,24 @@ def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
                 for feederTimer in feederTimerList: 
                     startTimer = feederTimer["startTimer"]
                     endTimer = feederTimer["endTimer"]
-                    print("\n" + startTimer)
-                    print(endTimer)
+                    enable = feederTimer["enable"]
+                    if enable == True:  
+                        print("\n" + startTimer)
+                        print(endTimer)
 
-                    end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
-                    print("end_time=" +  end_time)
-                    scheduler_item  = {
-                        "id": "2024-"+ str(uuid.uuid1()),
-                        "month": "0",
-                        "action": "70",
-                        "enable": True,
-                        "repeat": "daily",
-                        "stopTimer": endTimer  ,
-                        "startTimer": startTimer,
-                        "levelSwitch": ""
-                    }
-                    scheduler_array.append(scheduler_item)
+                        end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
+                        print("end_time=" +  end_time)
+                        scheduler_item  = {
+                            "id": "2024-"+ str(uuid.uuid1()),
+                            "month": "0",
+                            "action": "70",
+                            "enable": True,
+                            "repeat": "daily",
+                            "stopTimer": endTimer  ,
+                            "startTimer": startTimer,
+                            "levelSwitch": ""
+                        }
+                        scheduler_array.append(scheduler_item)
                     
     scheduler_string = json.dumps(scheduler_array)
     print("scheduler_string=" + scheduler_string)

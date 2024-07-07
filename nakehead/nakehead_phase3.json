@@ -1277,7 +1277,7 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:59",
-          "enable": false
+          "enable": true
         },
         {
           "startTimer": "11:00:00",
