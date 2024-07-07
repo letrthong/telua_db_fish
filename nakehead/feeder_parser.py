@@ -27,9 +27,9 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
 
     
     if data_object != None:
-        ConfiList = data_object["Configs"]
+        Config_list = data_object["Configs"]
         numberOfFish =  data_object["numberOfFish"]
-        for Config in ConfiList :
+        for Config in Config_list :
             day =  Config["day"]
             if day == next_day:
                 print("")
