@@ -60,8 +60,8 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                     }
                     scheduler_array.append(scheduler_item)
                     
-    scheduler_string = json.dumps(trigger_list)
-    print("scheduler_string=" + startTimer)
+    scheduler_string = json.dumps(scheduler_array)
+    print("scheduler_string=" + scheduler_string)
     return scheduler_string
 
     
