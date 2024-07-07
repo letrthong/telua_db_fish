@@ -12,8 +12,8 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     str_date = "07/07/2024"
     datetime_object = datetime.datetime.strptime(str_date, "%m/%d/%Y") 
     print(datetime_object) 
-    total_seconds = datetime_object.total_seconds()
-    print("total_seconds=" + str( total_seconds ) )
+    total_seconds = datetime_object.timestamp()
+    print("timestamp=" + str( timestamp ) )
 
     next_day = 1 
     next_epoch_time = epoch_time + ( 3600*next_day)
