@@ -73,7 +73,12 @@ def get_hour_by_number_of_fish(currnetNumberOfFish, start_hh_mm_ss, end_hh_mm_ss
 startDate="01/06/2024"
 currnetNumberOfFish = 2000
 getCurrentPWM(startDate, currnetNumberOfFish)
- 
+
+
+startDate="01/06/2024"
+currnetNumberOfFish = 1000
+getCurrentPWM(startDate, currnetNumberOfFish)
+
 # startDate="07/07/2024"
 # currnetNumberOfFish = 2000
 # getCurrentPWM(startDate, currnetNumberOfFish)
