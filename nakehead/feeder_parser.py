@@ -27,7 +27,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
     print(startDay)
 
     scheduler_array = []
-
+    count = 0
     if data_object != None:
         config_list = data_object["Configs"]
         numberOfFish =  data_object["numberOfFish"]
@@ -60,9 +60,10 @@ def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
                             "startTimer": startTimer,
                             "levelSwitch": ""
                         }
+                        count = count+ 1
                         scheduler_array.append(scheduler_item)
 
-      if  scheduler_array.length > 0:
+      if  count > 0:
         return scheduler_string
     return None
 
