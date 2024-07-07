@@ -19,7 +19,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     next_day = int( second_next_day/(3600*24)) + 1
     print("next_day=" + str(next_day))
  
-    file = open("nakehead_feeder_phase3.json")
+    file = open("nakehead_phase3.json")
     data_object = json.load(file)
     file.close()
     # "startDate": "02/06/2024",
@@ -27,22 +27,22 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
 
     
     if data_object != None:
-        feederList = data_object["feeder"]
+        ConfiList = data_object["Configs"]
         numberOfFish =  data_object["numberOfFish"]
-        for feeder in feederList :
-            day =  feeder["day"]
+        for Config in ConfigList :
+            day =  Config["day"]
             if day == next_day:
                 print("")
                 print("Day=" + str( day))
                 print(feeder["pwmSpeed"])
-                timerList = feeder["timers"]
-                for timer in timerList: 
-                    startTimer = timer["startTimer"]
-                    endTimer = timer["endTimer"]
+                
+                feederTimerList = feeder["feederTimers"]
+                for feederTimer in feederTimerList: 
+                    startTimer = feederTimer["startTimer"]
+                    endTimer = feederTimer["endTimer"]
                     print("\n" + startTimer)
                     print(endTimer)
-                    print(timer["enable"])
-                   
+            
                     end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
                     print("end_time=" +  end_time)
  
