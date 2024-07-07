@@ -42,3 +42,6 @@ startDate="01/06/2024"
 currnetNumberOfFish = 2000
 getCurrentPWM(startDate, currnetNumberOfFish)
  
+startDate="07/07/2024"
+currnetNumberOfFish = 2000
+getCurrentPWM(startDate, currnetNumberOfFish)
