@@ -19,7 +19,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     next_day = int( second_next_day/(3600*24)) + 1
     print("next_day=" + str(next_day))
  
-    file = open("nakehead_feeder.json")
+    file = open("nakehead_feeder_phase3.json")
     data_object = json.load(file)
     file.close()
     # "startDate": "02/06/2024",
