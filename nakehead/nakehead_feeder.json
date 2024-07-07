@@ -1,5 +1,4 @@
 {
-  "startDate": "02/06/2024",
   "commnet": "Cá đã nuôi được 45 ngày có thể ăn cám 2mm",
   "height": 1.2,
   "cylinder": 1.5,
@@ -19,6 +18,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -32,6 +41,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -47,6 +66,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -60,6 +89,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -75,6 +114,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -88,6 +137,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -103,6 +162,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -116,6 +185,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -131,6 +210,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -144,6 +233,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -159,6 +258,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -172,6 +281,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -187,6 +306,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -200,6 +329,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -215,6 +354,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -228,6 +377,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -243,6 +402,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -256,6 +425,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -271,6 +450,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -284,6 +473,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -299,6 +498,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -312,6 +521,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -327,6 +546,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -340,6 +569,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -355,6 +594,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -368,6 +617,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -383,6 +642,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -396,6 +665,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -411,6 +690,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -424,6 +713,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -439,6 +738,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -452,6 +761,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -467,6 +786,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -480,6 +809,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -495,6 +834,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -508,6 +857,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -523,6 +882,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -537,19 +906,15 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
-        }
-      ]
-    },
-    {
-      "day": 39,
-      "unit": "gram",
-      "size": "2mm",
-      "proteinPercent": "40%",
-      "pwmSpeed": "70%",
-      "timers": [
+        },
         {
-          "startTimer": "06:30:00",
-          "endTimer": "06:30:30",
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -564,6 +929,40 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "unit": "gram",
+      "size": "2mm",
+      "proteinPercent": "40%",
+      "pwmSpeed": "70%",
+      "timers": [
+        {
+          "startTimer": "06:30:00",
+          "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -579,6 +978,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -592,6 +1001,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -607,6 +1026,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -620,6 +1049,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -635,6 +1074,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -648,6 +1097,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -663,6 +1122,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -676,6 +1145,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -691,6 +1170,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -704,6 +1193,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -719,6 +1218,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -732,6 +1241,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -747,6 +1266,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -760,6 +1289,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -775,6 +1314,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -788,6 +1337,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -803,6 +1362,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -816,6 +1385,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -831,6 +1410,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -844,6 +1433,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
@@ -859,6 +1458,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -873,6 +1482,16 @@
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
           "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
+          "enable": true
         }
       ]
     },
@@ -886,6 +1505,16 @@
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:30",
+          "enable": true
+        },
+        {
+          "startTimer": "11:00:00",
+          "endTimer": "11:00:30",
+          "enable": true
+        },
+        {
+          "startTimer": "17:00:00",
+          "endTimer": "17:00:30",
           "enable": true
         }
       ]
