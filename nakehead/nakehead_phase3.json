@@ -1272,8 +1272,8 @@
       "unit": "gram",
       "size": "2mm",
       "proteinPercent": "40%",
-      "feederTimers": "70%",
-      "timers": [
+      "pwmSpeed": "70%",
+      "feederTimers": [
         {
           "startTimer": "06:30:00",
           "endTimer": "06:30:59",
