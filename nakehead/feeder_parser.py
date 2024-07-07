@@ -5,7 +5,7 @@ import datetime
 import uuid
 from datetime import timezone
  
-def getCurrentPWM(startDay, currnetNumberOfFish):
+def getCurrentPWM(startDay, currnetNumberOfFish, config_file_path):
     epoch_time = int(time.time())
     print("epoch_time=" + str(epoch_time )  )
     
@@ -20,7 +20,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     next_day = int( second_next_day/(3600*24)) + 1
     print("next_day=" + str(next_day))
  
-    file = open("nakehead_phase3.json")
+    file = open(config_file_path)
     data_object = json.load(file)
     file.close()
     # "startDate": "02/06/2024",
@@ -99,8 +99,9 @@ getCurrentPWM(startDate, currnetNumberOfFish)
 
 startDate="01/06/2024"
 currnetNumberOfFish = 1000
-getCurrentPWM(startDate, currnetNumberOfFish)
+config_file_path= "nakehead_phase3.json"
+getCurrentPWM(startDate, currnetNumberOfFish, config_file_path)
 
 # startDate="07/07/2024"
 # currnetNumberOfFish = 2000
-# getCurrentPWM(startDate, currnetNumberOfFish)
+# getCurrentPWM(startDate, currnetNumberOfFish, config_file_path)
