@@ -34,9 +34,9 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
             if day == next_day:
                 print("")
                 print("Day=" + str( day))
-                print(feeder["pwmSpeed"])
+                print(Config["pwmSpeed"])
 
-                feederTimerList = feeder["feederTimers"]
+                feederTimerList = Config["feederTimers"]
                 for feederTimer in feederTimerList: 
                     startTimer = feederTimer["startTimer"]
                     endTimer = feederTimer["endTimer"]
