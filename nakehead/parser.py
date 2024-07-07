@@ -7,10 +7,19 @@ from datetime import timezone
 def getCurrentPWM(startDay, currnetNumberOfFish):
     epoch_time = int(time.time())
     print("epoch_time=" + str(epoch_time )  )
- 
-    datetime_object = datetime.datetime.strptime(startDay, "%m/%d/%Y") 
+    
+    # "startDate": "02/06/2024",
+    str_date = "07/072024"
+    datetime_object = datetime.datetime.strptime(str_date, "%m/%d/%Y") 
     print(datetime_object) 
+    total_seconds = datetime_object.total_seconds()
+    print("total_seconds=" + str( total_seconds ) )
 
+    next_day = 1 
+    next_epoch_time = epoch_time + ( 3600*next_day)
+
+
+ 
     file = open("nakehead_feeder.json")
     data_object = json.load(file)
     file.close()
@@ -21,7 +30,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
         feederList = data_object["feeder"]
         for feeder in feederList :
             print("")
-            print("Day=" + str( feeder["day"] ) )
+            print("Day=" + str( feeder["day"]))
             print(feeder["pwmSpeed"])
             timerList = feeder["timers"]
             for timer in timerList: 
