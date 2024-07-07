@@ -28,6 +28,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
     
     if data_object != None:
         feederList = data_object["feeder"]
+        numberOfFish =  data_object["numberOfFish"]
         for feeder in feederList :
             day =  feeder["day"]
             if day == next_day:
@@ -42,7 +43,7 @@ def getCurrentPWM(startDay, currnetNumberOfFish):
                     print(endTimer)
                     print(timer["enable"])
                    
-                    end_time = get_hour_by_number_of_fish( currnetNumberOfFish, startTimer, endTimer)
+                    end_time = get_hour_by_number_of_fish( currnetNumberOfFish,numberOfFish,  startTimer, endTimer)
                     print("end_time=" +  end_time)
  
 def convert_hour_mm_ss_2_second(time_str):
@@ -57,10 +58,10 @@ def convert_hour_mm_ss_2_second(time_str):
     return 0
 
  
-def get_hour_by_number_of_fish(currnetNumberOfFish, start_hh_mm_ss, end_hh_mm_ss):
+def get_hour_by_number_of_fish(currnetNumberOfFish, numberOfFish, start_hh_mm_ss, end_hh_mm_ss):
     feedertimer = 1 
-    if currnetNumberOfFish > 1000 and currnetNumberOfFish < 10000 :
-        feedertimer =  currnetNumberOfFish/1000
+    if currnetNumberOfFish > numberOfFish and currnetNumberOfFish <  (numberOfFish*10) :
+        feedertimer =  currnetNumberOfFish/numberOfFish
 
     total_seconds =  convert_hour_mm_ss_2_second(end_hh_mm_ss) - convert_hour_mm_ss_2_second(start_hh_mm_ss)
 
