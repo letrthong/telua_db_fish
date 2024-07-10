@@ -1584,6 +1584,17 @@
         {
             "timers" :[
               {
+                "btn" : "b1On"
+                "startTimer" : "06:30:00",
+                "endTimer" : "06:30:30"
+              },
+              {
+                "btn" : "b2On"
+                "startTimer" : "06:30:00",
+                "endTimer" : "06:30:30"
+              }
+               {
+                "btn" : "alOn"
                 "startTimer" : "06:30:00",
                 "endTimer" : "06:30:30"
               }
